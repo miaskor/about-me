@@ -18,4 +18,5 @@ My notebooks
 - [Gradle](https://docs.google.com/document/d/1-d4HHRU3U8ZO5oLnk-KtLDz_HFSPb9GGurRmPuS9pv4/edit?usp=sharing)
 - [Kotlin](https://docs.google.com/document/d/1uNWOsy_Fqx7VybuAsLisud4_xCduA9M5mIDB8q5r5ek/edit?usp=sharing)
 - [RabbitMQ](https://docs.google.com/document/d/1qUFBUooEzIMlUCq0fcEWlKCF4yjll0hvLvQC9Zsvtho/edit?usp=sharing)
+- [Design Patterns]([https://docs.google.com/document/d/1qUFBUooEzIMlUCq0fcEWlKCF4yjll0hvLvQC9Zsvtho/edit?usp=sharing](https://java-design-patterns.com/patterns/))
 
