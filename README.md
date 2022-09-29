@@ -4,8 +4,6 @@ I'm 21 years old. I am currently in the resort city of Batumi :ocean:.
 
 :dart: My immediate goal is to move to Canada and settle there.
 
-My skill tree.
-
 ![alt text](https://github.com/miaskor/miaskor/blob/main/Skill%20tree.drawio.png?raw=true)
 
 - ![#EEEEEE](https://via.placeholder.com/15/EEEEEE/EEEEEE.png) `heard about technology/service/lib but have never used`
