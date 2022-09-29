@@ -19,4 +19,5 @@ My notebooks
 - [Kotlin](https://docs.google.com/document/d/1uNWOsy_Fqx7VybuAsLisud4_xCduA9M5mIDB8q5r5ek/edit?usp=sharing)
 - [RabbitMQ](https://docs.google.com/document/d/1qUFBUooEzIMlUCq0fcEWlKCF4yjll0hvLvQC9Zsvtho/edit?usp=sharing)
 - [Design Patterns](https://java-design-patterns.com/patterns/)
-
+- [Reactive Programming](https://docs.google.com/document/d/1JDLPp0GsjM6kH1jFRWo5fHGK6unv0yPnrN_a2Vmn7LQ/edit?usp=sharing)
+- [Multithreading](https://docs.google.com/document/d/1EtQ_i8SmFVtQ-nqRJwrBaXGsAFMPg7EAI-pnYPXKVXo/edit?usp=sharing)
