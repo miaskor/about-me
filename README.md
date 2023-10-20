@@ -19,3 +19,5 @@ My notebooks
 - [Design Patterns](https://java-design-patterns.com/patterns/)
 - [Reactive Programming](https://docs.google.com/document/d/1JDLPp0GsjM6kH1jFRWo5fHGK6unv0yPnrN_a2Vmn7LQ/edit?usp=sharing)
 - [Multithreading](https://docs.google.com/document/d/1EtQ_i8SmFVtQ-nqRJwrBaXGsAFMPg7EAI-pnYPXKVXo/edit?usp=sharing)
+- [Spring](https://docs.google.com/document/d/10Xe3UgPiL_7wdx7OYkSmMyOPWR2ZvUiV-Ssasu9qrcc/edit?usp=sharing)
+- [Hibernate](https://docs.google.com/document/d/13cF0vAH5sPkOAEnBouDMmYpBWlxFRdaCp74ypogpT1Y/edit?usp=sharing)
