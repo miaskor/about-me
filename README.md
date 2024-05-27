@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=32&duration=6000&pause=100000&color=000000&width=535&lines=Hi+there!+Welcome+to+my+github+page.)](https://git.io/typing-svg)
 
-I'm 22 years old. I am currently in the resort city of Batumi :ocean:. 
+I'm 22 years old. I am currently in the Minsk city :ocean:. 
 
 ![alt text](https://github.com/miaskor/miaskor/blob/main/Skill%20tree.drawio.png?raw=true)
 
